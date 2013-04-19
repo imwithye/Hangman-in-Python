@@ -14,7 +14,7 @@ Command line interface, Hangman game in Python.
 #######################################################
 #    key in admin to get in admin model!              #
 #    key in whosyourdaddy to get in special model!    #
-#    Warnning! admin model ONLY for developers!       #
+#    Warnning! admin mode ONLY for developers!        #
 #    any bugs please report to                        #
 #              http://github.com/imwithye             #
 #    email: imwithye@gmail.com                        #

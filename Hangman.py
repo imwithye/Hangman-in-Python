@@ -418,7 +418,7 @@ print("|__|  |__| /__/     \__\ |__| \__|  \______| |__|  |__| /__/     \__\ |__
 print('#######################################################')
 print('#    key in admin to get in admin model!              #')
 print('#    key in whosyourdaddy to get in special model!    #')
-print('#    Warnning! admin model ONLY for developers!       #')
+print('#    Warnning! admin mode ONLY for developers!        #')
 print('#    any bugs please report to                        #')
 print('#              http://github.com/imwithye             #')
 print('#    email: imwithye@gmail.com                        #')
