@@ -39,7 +39,7 @@ Command line interface, Hangman game in Python.
 Input Selection: 
 ```
 1. You may type in admin to edit the words' library.
-2. You can also type in "whosyourdaddy" to enter spacial mode.
+2. You can also type in "whosyourdaddy" to enter special mode.
 
 ---
 ©Copyright 2013 Ciel, Nanyang Technological University, bugs please report to imwithye@gmail.com
